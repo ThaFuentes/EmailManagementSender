@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Email Request",
+        "text": "📧 We'd love to stay in touch! Please provide your email address to receive important updates. ✨\n\n"
+    },
+    {
+        "name": "Feedback",
+        "text": "💬 We'd love to hear from you! Please share any feedback or suggestions you have for us. ✨\n\n"
+    },
+    {
+        "name": "Survey Participation",
+        "text": "📊 Help us improve! Please take a moment to fill out this short survey and share your thoughts. ✨\n\n"
+    },
+    {
+        "name": "Support Inquiry",
+        "text": "🛠 Need assistance? Let us know what we can help you with, and we'll get back to you as soon as possible. ✨\n\n"
+    },
+    {
+        "name": "Service Options",
+        "text": "🌟 Choose your preferred service level 🌟\n\nWould you prefer a basic setup or a more advanced service? Let us know what works best for you! ✨\n\n"
+    },
+    {
+        "name": "Appointment Request",
+        "text": "📅 Schedule an appointment with us at your convenience! Let us know your preferred date and time. ✨\n\n"
+    },
+    {
+        "name": "Custom Request",
+        "text": "🎨 Have a custom request or need something personalized? Let us know how we can tailor our services to your needs! ✨\n\n"
+    },
+    {
+        "name": "Follow-Up",
+        "text": "📞 Would you like us to follow up? Provide your preferred contact details and we'll get in touch! ✨\n\n"
+    },
+    {
+        "name": "Product Inquiry",
+        "text": "🛒 Have questions about our products or services? Let us know what you'd like to learn more about! ✨\n\n"
+    },
+    {
+        "name": "General Information",
+        "text": "ℹ️ Looking for more information? Send us your questions and we'll provide all the details you need. ✨\n\n"
+    },
+    {
+        "name": "Welcome",
+        "text": "🎉 Welcome! We're excited to have you here. Feel free to ask us anything, and let's get started! ✨\n\n"
+    },
+    {
+        "name": "Thank You",
+        "text": "🙏 Thank you for choosing us! If you have any questions or need further assistance, don't hesitate to reach out. ✨\n\n"
+    },
+    {
+        "name": "Delivery Confirmation",
+        "text": "📦 Your request has been successfully processed! If you have any issues, please let us know. ✨\n\n"
+    },
+    {
+        "name": "Logo Request",
+        "text": "🎨 Looking for a logo design? Provide your company name, niche, and style preference, and we'll help create one for you. ✨\n\n"
+    }
+]
